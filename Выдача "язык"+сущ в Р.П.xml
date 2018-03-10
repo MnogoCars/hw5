@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Пользователь Microsoft Office</LastAuthor>
+  <Created>2018-03-10T13:03:46Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>18000</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Результаты поиска">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="35" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
+   <Column ss:Width="7" ss:Span="1"/>
+   <Column ss:Index="3" ss:StyleID="s62" ss:Width="300"/>
+   <Column ss:StyleID="s63" ss:Width="75"/>
+   <Column ss:StyleID="s63" ss:Width="15"/>
+   <Column ss:StyleID="s63" ss:Width="300"/>
+   <Column ss:Width="300"/>
+   <Column ss:Width="75"/>
+   <Column ss:Width="50" ss:Span="9"/>
+   <Row>
+    <Cell><Data ss:Type="String">Reversed left context</Data></Cell>
+    <Cell><Data ss:Type="String">Reversed center</Data></Cell>
+    <Cell><Data ss:Type="String">Left context</Data></Cell>
+    <Cell><Data ss:Type="String">Center</Data></Cell>
+    <Cell><Data ss:Type="String">Punct</Data></Cell>
+    <Cell><Data ss:Type="String">Right context</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Title</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Author</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Birthday</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Header</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Created</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sphere</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Type</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Topic</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Publication</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Publ_year</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Medium</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ambiguity</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Full context</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;и&#160;ьлитс&#160;ьтадереп&#160;ыботч&#160;мет</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;тем чтобы передать стиль и </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>автора</B><Font> как можно точнее и&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Ю. И. Андреева. Многоточие сборки (2009)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. И. Андреева&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1969&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Многоточие сборки&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2009&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная проза&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Андреева Юлия. Многоточие сборки. СПб.: Лениздат, 2010&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2010&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Поэтому он по сто раз перечитывал и исправлял каждую главу, бесконечно ища соответствующие образы в русском языке, с тем чтобы передать стиль и <B>язык</B><Font> </Font><B>автора</B><Font> как можно точнее и понятнее нашему читателю.  [Ю. И. Андреева. Многоточие сборки (2009)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йондоР&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160; Родной </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>автора</B><Font> письма ― немецкий, а автора&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Александр Пятигорский. Вспомнишь странного человека (1997)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Александр Пятигорский&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Вспомнишь странного человека&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1997&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">А. Пятигорский. Вспомнишь странного человека&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1999&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Родной <B>язык</B><Font> </Font><B>автора</B><Font> письма ― немецкий, а автора романа ― русский.  [Александр Пятигорский. Вспомнишь странного человека (1997)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ятох&#160;меинечелву&#160;с&#160;аноирО&#160;ыфьлА</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;Альфы Ориона» с увлечением, хотя </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Адама</B><Font> не всегда казался мне&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">На околонаучной параболе (Путешествие в Академгородок). Повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  Помню, что я работал над переводом новеллы «Профессор Сейс и судьба Альфы Ориона» с увлечением, хотя <B>язык</B><Font> </Font><B>Адама</B><Font> не всегда казался мне идеальным.  [Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;доп&#160;вижолоп&#160;ьтидоворп&#160;ектилак&#160;к</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;к калитке проводить, положив под </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>валидола</B><Font> таблетку, я снова на&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Вадим Сидур. Памятник современному состоянию (1973-1974)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Вадим Сидур&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1924&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Памятник современному состоянию&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1973-1974&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Вадим Сидур. Памятник современному состоянию&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2002&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  Отдышавшись немного и воспользовавшись тем, что Юля пошла Мишу к калитке проводить, положив под <B>язык</B><Font> </Font><B>валидола</B><Font> таблетку, я снова на задний двор к деревянной уборной отправился.  [Вадим Сидур. Памятник современному состоянию (1973-1974)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;еще&#160;теувтсещус&#160;ьдев&#160;оН&#160;кызя</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;язык… Но ведь существует еще </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>глаз</B><Font> и улыбок… &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Юлия Друнина. Встреча через четверть века (1967)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Юлия Друнина&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1924&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Встреча через четверть века&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1967&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Избранные произведения в двух томах. Том 1. Проза (1966–1979)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1981&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Я, к сожалению, знаю всего несколько немецких слов ― признаюсь, что не слишком любила этот язык… Но ведь существует еще <B>язык</B><Font> </Font><B>глаз</B><Font> и улыбок…  [Юлия Друнина. Встреча через четверть века (1967)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызЯ</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;  «</Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>Язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>глаз</B><Font>, ― писали в романах, ― бывает&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Абрам Терц. Трактат о мышах и о нашем непонятном страхе перед мышами // «Огонек». № 5-7, 1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Абрам Терц&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1925&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Трактат о мышах и о нашем непонятном страхе перед мышами&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">«Огонек». № 5-7&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">журнал&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  «<B>Язык</B><Font> </Font><B>глаз</B><Font>, ― писали в романах, ― бывает красноречивее уст!..»  [Абрам Терц. Трактат о мышах и о нашем непонятном страхе перед мышами // «Огонек». № 5-7, 1991] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ьшил&#160;оньлетичюлкси&#160;ьтаминоп&#160;мынбосопс&#160;миксечиголооз</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;зоологическим, способным понимать исключительно лишь </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>дворовых</B><Font> собак, ― и тогда кто&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Венедикт Ерофеев. Записки психопата (1956-1957)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Венедикт Ерофеев&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1938&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Записки психопата&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1956-1957&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">дневник, записные книжки&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Венедикт Ерофеев. Собрание сочинений в 2-х томах. Том 2&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2001&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Да почему бы мне, в конце концов, не представить ее существом зоологическим, способным понимать исключительно лишь <B>язык</B><Font> </Font><B>дворовых</B><Font> собак, ― и тогда кто мне запретит встать на задние лапы и лаять по-собачьи?  [Венедикт Ерофеев. Записки психопата (1956-1957)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;лыб&#160;отэ&#160;оген&#160;ялд&#160;еинешонзиорп</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;произношение, для него это был </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>детства</B><Font>. &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Семен Липкин. Записки жильца (1962-1976)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Семен Липкин&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1911&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Записки жильца&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1962-1976&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Семен Липкин. Квадрига. Повесть, мемуары&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1997&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Объяснил это тем, что их село расположено рядом с менонитской колонией на Николаевщине, а у тех колонистов нижненемецкое произношение, для него это был <B>язык</B><Font> </Font><B>детства</B><Font>.  [Семен Липкин. Записки жильца (1962-1976)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;теавывосыв&#160;и&#160;йокшыдо&#160;яащюадартс&#160;или</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;или страдающая одышкой, и высовывает </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>дыма</B><Font>, и часто-часто дышит&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. Вчерашние заботы (1979)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Вчерашние заботы&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1979&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1990&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  «Эх, ― думаю я, слушая ночной концерт, ― эх, услышать бы сейчас, как чухает дизель, когда выйдешь на крыло, дав полный ход; услышать, как он набирает обороты и судно начинает подрагивать, а дизель ведет себя будто собака, пробежавшая километр или страдающая одышкой, и высовывает <B>язык</B><Font> </Font><B>дыма</B><Font>, и часто-часто дышит…  [Виктор Конецкий. Вчерашние заботы (1979)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;йиголана&#160;хыни&#160;меинемиен&#160;аз</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;за неимением иных аналогий, на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>жестов</B><Font>, исполняемых к тому же&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Абрам Терц. Трактат о мышах и о нашем непонятном страхе перед мышами // «Огонек». № 5-7, 1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Абрам Терц&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1925&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Трактат о мышах и о нашем непонятном страхе перед мышами&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">«Огонек». № 5-7&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">журнал&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Но теперь, осмелюсь заметить в родовом определении, все красноречие, сосредоточенное в тебе, необходимо перенести, за неимением иных аналогий, на <B>язык</B><Font> </Font><B>жестов</B><Font>, исполняемых к тому же нижней в основном половиной туловища, незрячей и безгласной.  [Абрам Терц. Трактат о мышах и о нашем непонятном страхе перед мышами // «Огонек». № 5-7, 1991] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;как&#160;тюавыбод&#160;хи&#160;как&#160;тувиж</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;живут, как их добывают, как </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>животных</B><Font> понимать… &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Б. В. Шергин. Отцово знанье (1930-1960)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Б. В. Шергин&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1893&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Отцово знанье&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1930-1960&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ, цикл&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Борис Шергин. Повести и рассказы&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1987&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Ступаем по мху, по мягким оленьим путищам, и он мне рассказывает о зверях, о птицах, о рыбах, как они живут, как их добывают, как <B>язык</B><Font> </Font><B>животных</B><Font> понимать…  [Б. В. Шергин. Отцово знанье (1930-1960)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;хи&#160;лидовереп&#160;онняотсоп&#160;ясьтизарыв</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;выразиться, постоянно переводил их на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>колоколов</B><Font> и плакал, если такой&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">А. И. Цветаева. Сказ о звонаре Московском (1976)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">А. И. Цветаева&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1894&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Сказ о звонаре Московском&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1976&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Цветаева А. Сказ о звонаре московском&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1983&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Слушая игру отца на фортепиано, на скрипке, я сейчас же в своей голове сопоставлял эти звуки с колоколами; я, если можно так выразиться, постоянно переводил их на <B>язык</B><Font> </Font><B>колоколов</B><Font> и плакал, если такой перевод почему-либо не удавался.  [А. И. Цветаева. Сказ о звонаре Московском (1976)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;  </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>математики</B><Font>, ибо на этом языке&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. Начало конца комедии (1978)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ, цикл&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  <B>язык</B><Font> </Font><B>математики</B><Font>, ибо на этом языке говорят с мирозданием только самые посвященные.  [Виктор Конецкий. Начало конца комедии (1978)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;ее&#160;итсевереп&#160;и&#160;унишам</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;машину и перевести, ее на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>математики</B><Font>. &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">На околонаучной параболе (Путешествие в Академгородок). Повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Он уже все приготовил, чтобы заложить совесть в машину и перевести, ее на <B>язык</B><Font> </Font><B>математики</B><Font>.  [Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йиксйилгна&#160;ан&#160;агниреБ&#160;довереп&#160;лыб</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;был перевод Беринга на английский </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>мемуаров</B><Font> брата посла, Павла Константиновича&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова. Железная женщина (1978-1980)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1901&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Железная женщина&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978-1980&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Берберова. Желещная женщина&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Одним из последних контактов с семьей Бенкендорфов был перевод Беринга на английский <B>язык</B><Font> </Font><B>мемуаров</B><Font> брата посла, Павла Константиновича; это было уже в 1930-х годах, и Беринг говорил, что не мог без слез переводить ту страницу, где было рассказано о вылитом в уборную драгоценном вине.  [Н. Н. Берберова. Железная женщина (1978-1980)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;и&#160;урев&#160;овтснаддоп&#160;вянирп&#160;алаванзос</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;сознавала, приняв подданство, веру и </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>мужа</B><Font>, разделив полностью, как и&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Андрей Битов. Азарт, или Неизбежность ненаписанного (1997-1998)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Андрей Битов&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1937&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Азарт, или Неизбежность ненаписанного&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1997-1998&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Битов А. Неизбежность ненаписанного&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1998&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Она себя ею не сознавала, приняв подданство, веру и <B>язык</B><Font> </Font><B>мужа</B><Font>, разделив полностью, как и положено настоящей жене и немке, все интересы мужа (в глубокой тайне в семье сохранялось предание, что знаменитое предсмертное «Увидимся!»  [Андрей Битов. Азарт, или Неизбежность ненаписанного (1997-1998)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йикссур&#160;ан&#160;итсевереП&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160; Перевести на русский </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>надписи</B><Font>, которые он на них&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова. Курсив мой (1960-1966)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1901&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Курсив мой&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1960-1966&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">искусство и культура&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Берберова. Курсив мой. Автобиография&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1996&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Перевести на русский <B>язык</B><Font> </Font><B>надписи</B><Font>, которые он на них делал, было еще труднее, чем его письма.  [Н. Н. Берберова. Курсив мой (1960-1966)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;огобург&#160;идерс&#160;ыругиф&#160;йондоморатс</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;старомодной фигуры среди грубого на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>населения</B><Font> гаваней, его никогда не&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский. Повесть о жизни. Время больших ожиданий (1958)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1892&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Повесть о жизни. Время больших ожиданий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1958&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Паустовский К. Г. Повесть о жизни. Кн. 4-6&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2007&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Несмотря на нелепость его старомодной фигуры среди грубого на <B>язык</B><Font> </Font><B>населения</B><Font> гаваней, его никогда не трогали и не давали в обиду.  [К. Г. Паустовский. Повесть о жизни. Время больших ожиданий (1958)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ламиноп&#160;хятсокнот&#160;в&#160;цеоботолом&#160;ьтираду</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;ударить (молотобоец в тонкостях понимал </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Никитина</B><Font> молотка), а кувалда, ухая&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">В. А. Солоухин. Капля росы (1959)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">В. А. Солоухин&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1924&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Капля росы&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1959&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Солоухин В. А. Собр. соч.: В 5 т. Т.1&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2006&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Значит, молоток кузнеца показывал, куда надо ударить и даже как сильно надо ударить (молотобоец в тонкостях понимал <B>язык</B><Font> </Font><B>Никитина</B><Font> молотка), а кувалда, ухая, плющила, разминала, сжимала, разглаживала, сгибала или разгибала горячее железо.  [В. А. Солоухин. Капля росы (1959)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йишйенверд&#160;ценаТ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;  Танец ― древнейший </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>общения</B><Font> с духами и богами&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Ю. И. Андреева. Многоточие сборки (2009)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. И. Андреева&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1969&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Многоточие сборки&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2009&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная проза&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Андреева Юлия. Многоточие сборки. СПб.: Лениздат, 2010&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2010&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  Танец ― древнейший <B>язык</B><Font> </Font><B>общения</B><Font> с духами и богами.  [Ю. И. Андреева. Многоточие сборки (2009)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йырдещ&#160;ясливарн&#160;уме&#160;йобос&#160;дереп</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;перед собой: ему нравился щедрый </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>огня</B><Font>, трепещущий над его левым&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Василий Аксенов. Таинственная страсть (2007)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Василий Аксенов&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1932&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Таинственная страсть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2007&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Аксенов В. П. Таинственная страсть. Роман о шестидесятниках&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2009&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Хватившись, он чиркал зажигалкой и некоторое время держал ее перед собой: ему нравился щедрый <B>язык</B><Font> </Font><B>огня</B><Font>, трепещущий над его левым кулаком.  [Василий Аксенов. Таинственная страсть (2007)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йинис&#160;йикосыв&#160;уртев&#160;ан&#160;ьсяачак</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;качаясь на ветру, высокий синий </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>огня</B><Font>. &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский. Повесть о жизни. Начало неведомого века (1956)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1892&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Повесть о жизни. Начало неведомого века&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1956&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Паустовский К. Г. Повесть о жизни. Кн. 1-3&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2007&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">  Внезапно под окнами с тихим гулом загорелся, качаясь на ветру, высокий синий <B>язык</B><Font> </Font><B>огня</B><Font>.  [К. Г. Паустовский. Повесть о жизни. Начало неведомого века (1956)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;&#160;исраф&#160;аличУ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызЯ</Data></Cell>
+    <Cell><Data ss:Type="String">&#160; Учила фарси.  </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>Язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>поэтов</B><Font>.   ― Слабо пройти по городу&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Светлана Алексиевич. Время second-hand // «Дружба народов», 2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Светлана Алексиевич&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1948&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Время second-hand&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">«Дружба народов»&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">журнал&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Учила фарси.  <B>Язык</B><Font> </Font><B>поэтов</B><Font>.   ― Слабо пройти по городу с плакатом «Люблю таджиков»?  [Светлана Алексиевич. Время second-hand // «Дружба народов», 2013] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ьтсе&#160;кызя&#160;йикснитал&#160;отч&#160;ланзу</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;узнал, что латинский язык есть </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>римлян</B><Font>! &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Ю. К. Олеша. Книга прощания (1930-1959)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. К. Олеша&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1899&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Книга прощания&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1930-1959&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">дневник, записные книжки&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. Олеша. Книга Прощания&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2001&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Я с удивлением узнал, что латинский язык есть <B>язык</B><Font> </Font><B>римлян</B><Font>!  [Ю. К. Олеша. Книга прощания (1930-1959)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;адипирвЕ&#160;огесв&#160;ьтерепереп&#160;ил</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;ли «перепереть» всего Еврипида на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>родных</B><Font> осин! &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Ю. М. Нагибин. Смерть на вокзале (1972-1979)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. М. Нагибин&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1920&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Смерть на вокзале&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1972-1979&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Ю. М. Нагибин. Остров любви. Повести&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1985&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Такой высокий, приметный в любой толпе, значительной наружности господин, с высоким чином и солидными трудами — легко ли «перепереть» всего Еврипида на <B>язык</B><Font> </Font><B>родных</B><Font> осин!  [Ю. М. Нагибин. Смерть на вокзале (1972-1979)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;едовереп&#160;в&#160;афйак&#160;едорв</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;вроде кайфа в переводе на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>современности</B><Font>). &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Андрей Битов. Автобиография (1992)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Андрей Битов&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1937&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Автобиография&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1992&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">рассказ&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Битов А. Неизбежность ненаписанного&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1998&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Детство как детство, после войны ― уже лафа (что-то вроде кайфа в переводе на <B>язык</B><Font> </Font><B>современности</B><Font>).  [Андрей Битов. Автобиография (1992)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йикцемен&#160;ан&#160;кичдовереп&#160;и&#160;йикцемен</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;немецкий, и переводчик на немецкий </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>стихотворений</B><Font> Лермонтова. &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова. Железная женщина (1978-1980)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1901&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Железная женщина&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978-1980&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Берберова. Желещная женщина&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1991&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Кроме того, Будберги отличались некоторой склонностью к писательству: в 50-х годах прошлого века некий Будберг, русский посланник в Берлине, Париже и Вене, отмечен в литературных словарях как «писатель», а Роман Будберг, живший приблизительно в то же время, как «стихотворец», правда, не русский, а немецкий, и переводчик на немецкий <B>язык</B><Font> </Font><B>стихотворений</B><Font> Лермонтова.  [Н. Н. Берберова. Железная женщина (1978-1980)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;кызя&#160;йовс&#160;сан&#160;У&#160;&#160;еытиб</Data></Cell>
+    <Cell><Data ss:Type="String">кызЯ</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;битые.  У нас свой язык… </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>Язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>страдания</B><Font>…   Пробовал заговорить об этом&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Светлана Алексиевич. Время second-hand // «Дружба народов», 2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Светлана Алексиевич&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1948&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Время second-hand&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">«Дружба народов»&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2013&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">журнал&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Мы такие тертые, мы такие битые.  У нас свой язык… <B>Язык</B><Font> </Font><B>страдания</B><Font>…   Пробовал заговорить об этом со своими студентами… Смеялись мне в лицо: «Мы не хотим страдать.  [Светлана Алексиевич. Время second-hand // «Дружба народов», 2013] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;airepmI&#160;aicreT&#160;augniL&#160;ареребмелК&#160;огонечу</Data></Cell>
+    <Cell><Data ss:Type="String">кызЯ</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;ученого Клемберера «Lingua Tercia Imperia» ― «</Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>Язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>третьего</B><Font> рейха». &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Некрасов. Взгляд и Нечто (1977)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Некрасов&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1911&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Взгляд и Нечто&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1977&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Некрасов. Записки зеваки&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2004&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Был, кажется, в Австрии, до оккупации, естественно, опубликован труд известного ученого Клемберера «Lingua Tercia Imperia» ― «<B>Язык</B><Font> </Font><B>третьего</B><Font> рейха».  [Виктор Некрасов. Взгляд и Нечто (1977)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;йындоран&#160;йищюоп&#160;йыртсо&#160;цидолом&#160;хынродаз</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;задорных молодиц, острый, поющий, народный </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Украины</B><Font> отступил перед новым пришельцем&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский. Повесть о жизни. Начало неведомого века (1956)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">К. Г. Паустовский&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1892&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Повесть о жизни. Начало неведомого века&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1956&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Паустовский К. Г. Повесть о жизни. Кн. 1-3&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">2007&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> И блестящий, действительно жемчужный, как зубы задорных молодиц, острый, поющий, народный <B>язык</B><Font> </Font><B>Украины</B><Font> отступил перед новым пришельцем в далекие шевченковские хаты и в тихие деревенские левады.  [К. Г. Паустовский. Повесть о жизни. Начало неведомого века (1956)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;и&#160;теанз&#160;акшуроткиВ&#160;аД&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160; Да, Викторушка знает и </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>франков</B><Font>, это был его второй&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Эдуард Лимонов. Молодой негодяй (1985)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Эдуард Лимонов&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1943&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Молодой негодяй&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1985&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Лимонов Э. Собрание сочинений: В 3 т. Т.1&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1998&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Да, Викторушка знает и <B>язык</B><Font> </Font><B>франков</B><Font>, это был его второй язык в университете.  [Эдуард Лимонов. Молодой негодяй (1985)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;мас&#160;отч&#160;умотоп&#160;онжомзовен&#160;оготэ</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;этого невозможно, потому что сам </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>человека</B><Font> есть отражение его разума&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова. Курсив мой (1960-1966)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Н. Берберова&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1901&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Курсив мой&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1960-1966&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">роман&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">искусство и культура&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Н. Берберова. Курсив мой. Автобиография&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1996&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Ни писать, ни говорить без этого невозможно, потому что сам <B>язык</B><Font> </Font><B>человека</B><Font> есть отражение его разума.  [Н. Н. Берберова. Курсив мой (1960-1966)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;ан&#160;едовереп&#160;В&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160; В переводе на </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>этометрии</B><Font> это означает, что совесть&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">На околонаучной параболе (Путешествие в Академгородок). Повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1978&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> В переводе на <B>язык</B><Font> </Font><B>этометрии</B><Font> это означает, что совесть может реагировать на разность между заданной и реальной величинами по-разному.  [Виктор Конецкий. На околонаучной параболе (Путешествие в Академгородок). Повесть (1978)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">&#160;аскаП&#160;сым&#160;узинВ&#160;&#160;иматерагис&#160;ьдург</Data></Cell>
+    <Cell><Data ss:Type="String">кызя</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;грудь сигаретами.  Внизу мыс Пакса ― </Data></Cell>
+    <Cell ss:StyleID="s65"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#160;<B>язык</B><Font>&#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String"> &#160;</Data></Cell>
+    <Cell ss:StyleID="s66"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>ящера</B><Font>.  В 12.15 спрашиваю штурмана: &#160;</Font></ss:Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий. Вчерашние заботы (1979)&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Виктор Конецкий&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1929&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Вчерашние заботы&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1979&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">художественная&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">повесть&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">Конецкий В. Начало конца комедии&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">1990&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">книга&#160;</Data></Cell>
+    <Cell><Data ss:Type="String">омонимия не снята</Data></Cell>
+    <Cell ss:StyleID="s67"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> Курю, рву грудь сигаретами.  Внизу мыс Пакса ― <B>язык</B><Font> </Font><B>ящера</B><Font>.  В  спрашиваю штурмана:  [Виктор Конецкий. Вчерашние заботы (1979)] [омонимия не снята]</Font></ss:Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Left="0" x:Right="0"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
